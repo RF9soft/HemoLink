@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181043531363",
+    "firebase_url": "https://naresh-seva-default-rtdb.firebaseio.com",
+    "project_id": "naresh-seva",
+    "storage_bucket": "naresh-seva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181043531363:android:bb8d8bbc95544a868e7256",
+        "android_client_info": {
+          "package_name": "com.naresh.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181043531363-6elfhebpn03mtedda87or9g6j6iqj13o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naresh.pro",
+            "certificate_hash": "7cede042ff9ee2e71754d1de34816b0ad56d91fa"
+          }
+        },
+        {
+          "client_id": "181043531363-14fmfhgb0ek5npljgvjr9vb23424812c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10vjjOK6yAWH0MlSSJh2ts9r20zaFRg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181043531363-14fmfhgb0ek5npljgvjr9vb23424812c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
